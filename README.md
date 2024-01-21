@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/hassanmoaa/social-links-profile-FrontEndMentor.git)
+- Live Site URL: (https://inspiring-nasturtium-3bd06b.netlify.app/)
 
 
 ### Built with
